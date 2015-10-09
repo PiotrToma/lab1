@@ -1,3 +1,4 @@
+
 #  Wzorowane na przykładzie Rona Zacharskiego
 
 
@@ -45,3 +46,5 @@ def recommend(username, users):
 
 print( recommend('Hela', users))
 #print( recommend('Celina', users))
+
+print('ZMIENIONO i jest niby ok i moze zadziala')
